@@ -1,0 +1,6 @@
+C:\Users\susheel\Downloads\diary1\diary1\diary1\obj\x86\Debug\diary1.csprojResolveAssemblyReference.cache
+C:\Users\susheel\Downloads\diary1\diary1\diary1\obj\x86\Debug\App.g.cs
+C:\Users\susheel\Downloads\diary1\diary1\diary1\obj\x86\Debug\MainPage.g.cs
+C:\Users\susheel\Downloads\diary1\diary1\diary1\obj\x86\Debug\PageGet.g.cs
+C:\Users\susheel\Downloads\diary1\diary1\diary1\obj\x86\Debug\PageSet.g.cs
+C:\Users\susheel\Downloads\diary1\diary1\diary1\obj\x86\Debug\diary1.g.resources
